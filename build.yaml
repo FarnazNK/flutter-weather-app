@@ -1,0 +1,33 @@
+targets:
+  $default:
+    builders:
+      freezed:
+        options:
+          # Generate copyWith method
+          copyWith: true
+          # Generate toJson/fromJson methods
+          toJson: true
+          # Generate when() method
+          when: true
+          # Generate map() method
+          map: true
+          
+      json_serializable:
+        options:
+          # Generate explicitToJson
+          explicit_to_json: true
+          # Check for required keys
+          checked: true
+          # Create factory constructor
+          create_factory: true
+          # Create toJson method
+          create_to_json: true
+          # Ignore null fields in JSON
+          include_if_null: false
+          # Use any map type
+          any_map: false
+          
+      injectable_generator:
+        options:
+          # Auto-register dependencies
+          auto_register: true
