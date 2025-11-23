@@ -2,7 +2,7 @@
 
 [![Flutter CI/CD](https://github.com/YOUR_USERNAME/flutter_weather_app/workflows/Flutter%20CI/CD/badge.svg)](https://github.com/YOUR_USERNAME/flutter_weather_app/actions)
 [![codecov](https://codecov.io/gh/YOUR_USERNAME/flutter_weather_app/branch/main/graph/badge.svg)](https://codecov.io/gh/YOUR_USERNAME/flutter_weather_app)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 A production-ready Flutter weather application showcasing clean architecture, BLoC pattern, comprehensive testing, and CI/CD best practices.
 
