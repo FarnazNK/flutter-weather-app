@@ -125,7 +125,6 @@ flutter_weather_app/
 ├── pubspec.yaml                # Dependencies
 ├── CHANGELOG.md                # Version history
 ├── CONTRIBUTING.md             # Contribution guide
-├── LICENSE                     # MIT License
 └── README.md                   # Project overview
 ```
 
@@ -346,17 +345,6 @@ This project is ideal for:
 ✅ Professional workflows  
 ✅ Deployment ready  
 
-## 📞 Contact & Links
-
-**Developer**: [Your Name]
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your Profile](https://linkedin.com/in/YOUR_PROFILE)
-- Email: your.email@example.com
-- Portfolio: your-portfolio.com
-
-## 📄 License
-
-MIT License - See [LICENSE](LICENSE) file for details
 
 ---
 
