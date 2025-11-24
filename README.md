@@ -1,6 +1,5 @@
 # Flutter Weather App
 
-[![Flutter CI/CD](https://github.com/FarnazNK/flutter_weather_app/workflows/Flutter%20CI/CD/badge.svg)](https://github.com/FarnazNK/flutter_weather_app/actions)
 [![codecov](https://codecov.io/gh/FarnazNK/flutter_weather_app/branch/main/graph/badge.svg)](https://codecov.io/gh/FarnazNK/flutter_weather_app)
 
 
