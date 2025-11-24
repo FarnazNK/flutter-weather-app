@@ -214,15 +214,8 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
-
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your Profile](https://linkedin.com/in/YOUR_PROFILE)
 
 ## Acknowledgments
 
@@ -230,10 +223,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Flutter community for excellent packages
 - Clean Architecture principles by Robert C. Martin
 
-## Support
-
-For support, email your.email@example.com or create an issue in the repository.
-
----
 
 **If you found this project helpful, please give it a star!**
