@@ -1,6 +1,6 @@
 # Flutter Weather App
 
-[![codecov](https://codecov.io/gh/FarnazNK/flutter_weather_app/branch/main/graph/badge.svg)](https://codecov.io/gh/FarnazNK/flutter_weather_app)
+[![codecov](https://codecov.io/gh/FarnazNK/flutter_weather_app/branch/main/graph/badge.svg)]
 
 
 A production-ready Flutter weather application showcasing clean architecture, BLoC pattern, comprehensive testing, and CI/CD best practices.
